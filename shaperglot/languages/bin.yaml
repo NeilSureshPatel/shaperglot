@@ -1,0 +1,296 @@
+#auto-generated using generate-sg-profile.py
+features:
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: Ẹ̀
+    language: bin
+    features:
+      mark: false
+  - text: Ẹ̀
+    language: bin
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER E WITH DOT BELOW (1eb8) needs anchor for: COMBINING
+    GRAVE ACCENT (0300)'
+- inputs:
+  - text: Ọ̀
+    language: bin
+    features:
+      mark: false
+  - text: Ọ̀
+    language: bin
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER O WITH DOT BELOW (1ecc) needs anchor for: COMBINING
+    GRAVE ACCENT (0300)'
+- inputs:
+  - text: ẹ̀
+    language: bin
+    features:
+      mark: false
+  - text: ẹ̀
+    language: bin
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER E WITH DOT BELOW (1eb9) needs anchor for: COMBINING
+    GRAVE ACCENT (0300)'
+- inputs:
+  - text: ọ̀
+    language: bin
+    features:
+      mark: false
+  - text: ọ̀
+    language: bin
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER O WITH DOT BELOW (1ecd) needs anchor for: COMBINING
+    GRAVE ACCENT (0300)'
+- inputs:
+  - text: Ẹ́
+    language: bin
+    features:
+      mark: false
+  - text: Ẹ́
+    language: bin
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER E WITH DOT BELOW (1eb8) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: Ọ́
+    language: bin
+    features:
+      mark: false
+  - text: Ọ́
+    language: bin
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER O WITH DOT BELOW (1ecc) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: ẹ́
+    language: bin
+    features:
+      mark: false
+  - text: ẹ́
+    language: bin
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER E WITH DOT BELOW (1eb9) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: ọ́
+    language: bin
+    features:
+      mark: false
+  - text: ọ́
+    language: bin
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER O WITH DOT BELOW (1ecd) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: Ẹ̀
+    language: bin
+    features:
+      mark: false
+      smcp: true
+  - text: Ẹ̀
+    language: bin
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER E WITH DOT BELOW (1eb8) needs anchor
+    for combining mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ọ̀
+    language: bin
+    features:
+      mark: false
+      smcp: true
+  - text: Ọ̀
+    language: bin
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER O WITH DOT BELOW (1ecc) needs anchor
+    for combining mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ẹ̀
+    language: bin
+    features:
+      mark: false
+      smcp: true
+  - text: ẹ̀
+    language: bin
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER E WITH DOT BELOW (1eb9) needs anchor for
+    combining mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ọ̀
+    language: bin
+    features:
+      mark: false
+      smcp: true
+  - text: ọ̀
+    language: bin
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER O WITH DOT BELOW (1ecd) needs anchor for
+    combining mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ẹ́
+    language: bin
+    features:
+      mark: false
+      smcp: true
+  - text: Ẹ́
+    language: bin
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER E WITH DOT BELOW (1eb8) needs anchor
+    for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ọ́
+    language: bin
+    features:
+      mark: false
+      smcp: true
+  - text: Ọ́
+    language: bin
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER O WITH DOT BELOW (1ecc) needs anchor
+    for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ẹ́
+    language: bin
+    features:
+      mark: false
+      smcp: true
+  - text: ẹ́
+    language: bin
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER E WITH DOT BELOW (1eb9) needs anchor for
+    combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ọ́
+    language: bin
+    features:
+      mark: false
+      smcp: true
+  - text: ọ́
+    language: bin
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER O WITH DOT BELOW (1ecd) needs anchor for
+    combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp

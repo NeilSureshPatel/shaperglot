@@ -1,0 +1,432 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X014A
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: Ā
+    language: mas
+    features:
+      mark: false
+  - text: Ā
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: ā
+    language: mas
+    features:
+      mark: false
+  - text: ā
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ē
+    language: mas
+    features:
+      mark: false
+  - text: Ē
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER E (0045) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: ē
+    language: mas
+    features:
+      mark: false
+  - text: ē
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER E (0065) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ī
+    language: mas
+    features:
+      mark: false
+  - text: Ī
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I (0049) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: ī
+    language: mas
+    features:
+      mark: false
+  - text: ī
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I (0069) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ō
+    language: mas
+    features:
+      mark: false
+  - text: Ō
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER O (004f) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: ō
+    language: mas
+    features:
+      mark: false
+  - text: ō
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER O (006f) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ū
+    language: mas
+    features:
+      mark: false
+  - text: Ū
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U (0055) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: ū
+    language: mas
+    features:
+      mark: false
+  - text: ū
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U (0075) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ʉ́
+    language: mas
+    features:
+      mark: false
+  - text: Ʉ́
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U BAR (0244) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ʉ́
+    language: mas
+    features:
+      mark: false
+  - text: ʉ́
+    language: mas
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U BAR (0289) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ā
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: Ā
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ā
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: ā
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ē
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: Ē
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER E (0045) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ē
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: ē
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER E (0065) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ī
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: Ī
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I (0049) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ī
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: ī
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I (0069) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ō
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: Ō
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER O (004f) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ō
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: ō
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER O (006f) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ū
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: Ū
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U (0055) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ū
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: ū
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U (0075) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ʉ́
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: Ʉ́
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U BAR (0244) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ʉ́
+    language: mas
+    features:
+      mark: false
+      smcp: true
+  - text: ʉ́
+    language: mas
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U BAR (0289) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp

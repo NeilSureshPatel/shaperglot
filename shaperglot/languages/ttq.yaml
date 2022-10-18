@@ -1,0 +1,864 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X014A
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: ḅ
+    language: ttq
+    features:
+      mark: false
+  - text: ḅ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER B (0062) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: f̣
+    language: ttq
+    features:
+      mark: false
+  - text: f̣
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER F (0066) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: g̣
+    language: ttq
+    features:
+      mark: false
+  - text: g̣
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER G (0067) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: ḥ
+    language: ttq
+    features:
+      mark: false
+  - text: ḥ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER H (0068) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: j̣
+    language: ttq
+    features:
+      mark: false
+  - text: j̣
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER J (006a) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: ḳ
+    language: ttq
+    features:
+      mark: false
+  - text: ḳ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER K (006b) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: ṃ
+    language: ttq
+    features:
+      mark: false
+  - text: ṃ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER M (006d) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: ṇ
+    language: ttq
+    features:
+      mark: false
+  - text: ṇ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER N (006e) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: ṛ
+    language: ttq
+    features:
+      mark: false
+  - text: ṛ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER R (0072) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: ẉ
+    language: ttq
+    features:
+      mark: false
+  - text: ẉ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER W (0077) needs anchor for: COMBINING DOT BELOW (0323)'
+- inputs:
+  - text: Ḅ
+    language: ttq
+    features:
+      mark: false
+  - text: Ḅ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER B (0042) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: F̣
+    language: ttq
+    features:
+      mark: false
+  - text: F̣
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER F (0046) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: G̣
+    language: ttq
+    features:
+      mark: false
+  - text: G̣
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER G (0047) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: Ḥ
+    language: ttq
+    features:
+      mark: false
+  - text: Ḥ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER H (0048) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: J̣
+    language: ttq
+    features:
+      mark: false
+  - text: J̣
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER J (004a) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: Ḳ
+    language: ttq
+    features:
+      mark: false
+  - text: Ḳ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER K (004b) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: Ṃ
+    language: ttq
+    features:
+      mark: false
+  - text: Ṃ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER M (004d) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: Ṇ
+    language: ttq
+    features:
+      mark: false
+  - text: Ṇ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER N (004e) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: Ṛ
+    language: ttq
+    features:
+      mark: false
+  - text: Ṛ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER R (0052) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: Ẉ
+    language: ttq
+    features:
+      mark: false
+  - text: Ẉ
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER W (0057) needs anchor for: COMBINING DOT BELOW
+    (0323)'
+- inputs:
+  - text: ṣ̌
+    language: ttq
+    features:
+      mark: false
+  - text: ṣ̌
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER S WITH DOT BELOW (1e63) needs anchor for: COMBINING
+    CARON (030c)'
+- inputs:
+  - text: Ṣ̌
+    language: ttq
+    features:
+      mark: false
+  - text: Ṣ̌
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER S WITH DOT BELOW (1e62) needs anchor for: COMBINING
+    CARON (030c)'
+- inputs:
+  - text: ṣ̌
+    language: ttq
+    features:
+      mark: false
+  - text: ṣ̌
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER S WITH CARON (0161) needs anchor for: COMBINING DOT
+    BELOW (0323)'
+- inputs:
+  - text: Ṣ̌
+    language: ttq
+    features:
+      mark: false
+  - text: Ṣ̌
+    language: ttq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER S WITH CARON (0160) needs anchor for: COMBINING
+    DOT BELOW (0323)'
+- inputs:
+  - text: ḅ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: ḅ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER B (0062) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: f̣
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: f̣
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER F (0066) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: g̣
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: g̣
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER G (0067) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ḥ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: ḥ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER H (0068) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: j̣
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: j̣
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER J (006a) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ḳ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: ḳ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER K (006b) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ṃ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: ṃ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER M (006d) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ṇ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: ṇ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER N (006e) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ṛ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: ṛ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER R (0072) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ẉ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: ẉ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER W (0077) needs anchor for combining mark:
+    COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ḅ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: Ḅ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER B (0042) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: F̣
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: F̣
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER F (0046) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: G̣
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: G̣
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER G (0047) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ḥ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: Ḥ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER H (0048) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: J̣
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: J̣
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER J (004a) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ḳ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: Ḳ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER K (004b) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ṃ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: Ṃ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER M (004d) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ṇ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: Ṇ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER N (004e) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ṛ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: Ṛ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER R (0052) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ẉ
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: Ẉ
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER W (0057) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ṣ̌
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: ṣ̌
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER S WITH DOT BELOW (1e63) needs anchor for
+    combining mark: COMBINING CARON (030c)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ṣ̌
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: Ṣ̌
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER S WITH DOT BELOW (1e62) needs anchor
+    for combining mark: COMBINING CARON (030c)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ṣ̌
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: ṣ̌
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER S WITH CARON (0161) needs anchor for combining
+    mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ṣ̌
+    language: ttq
+    features:
+      mark: false
+      smcp: true
+  - text: Ṣ̌
+    language: ttq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER S WITH CARON (0160) needs anchor for
+    combining mark: COMBINING DOT BELOW (0323)'
+  if:
+    feature: smcp

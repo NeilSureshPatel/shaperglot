@@ -1,0 +1,154 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X014A
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: Ɔ̀
+    language: mgo
+    features:
+      mark: false
+  - text: Ɔ̀
+    language: mgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING GRAVE
+    ACCENT (0300)'
+- inputs:
+  - text: Ə̀
+    language: mgo
+    features:
+      mark: false
+  - text: Ə̀
+    language: mgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER SCHWA (018f) needs anchor for: COMBINING GRAVE
+    ACCENT (0300)'
+- inputs:
+  - text: ɔ̀
+    language: mgo
+    features:
+      mark: false
+  - text: ɔ̀
+    language: mgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: ə̀
+    language: mgo
+    features:
+      mark: false
+  - text: ə̀
+    language: mgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER SCHWA (0259) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ɔ̀
+    language: mgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̀
+    language: mgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ə̀
+    language: mgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ə̀
+    language: mgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER SCHWA (018f) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̀
+    language: mgo
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̀
+    language: mgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ə̀
+    language: mgo
+    features:
+      mark: false
+      smcp: true
+  - text: ə̀
+    language: mgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER SCHWA (0259) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp

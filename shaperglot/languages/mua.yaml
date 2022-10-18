@@ -1,0 +1,81 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X014A
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: Ë
+    language: mua
+    features:
+      mark: false
+  - text: Ë
+    language: mua
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER E (0045) needs anchor for: COMBINING DIAERESIS
+    (0308)'
+- inputs:
+  - text: ë
+    language: mua
+    features:
+      mark: false
+  - text: ë
+    language: mua
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER E (0065) needs anchor for: COMBINING DIAERESIS (0308)'
+- inputs:
+  - text: Ë
+    language: mua
+    features:
+      mark: false
+      smcp: true
+  - text: Ë
+    language: mua
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER E (0045) needs anchor for combining
+    mark: COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ë
+    language: mua
+    features:
+      mark: false
+      smcp: true
+  - text: ë
+    language: mua
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER E (0065) needs anchor for combining mark:
+    COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp

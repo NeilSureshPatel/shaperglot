@@ -1,0 +1,436 @@
+#auto-generated using generate-sg-profile.py
+features:
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: M̀
+    language: naq
+    features:
+      mark: false
+  - text: M̀
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER M (004d) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: m̀
+    language: naq
+    features:
+      mark: false
+  - text: m̀
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER M (006d) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ǹ
+    language: naq
+    features:
+      mark: false
+  - text: Ǹ
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER N (004e) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: ǹ
+    language: naq
+    features:
+      mark: false
+  - text: ǹ
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER N (006e) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ḿ
+    language: naq
+    features:
+      mark: false
+  - text: Ḿ
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER M (004d) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: ḿ
+    language: naq
+    features:
+      mark: false
+  - text: ḿ
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER M (006d) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ń
+    language: naq
+    features:
+      mark: false
+  - text: Ń
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER N (004e) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: ń
+    language: naq
+    features:
+      mark: false
+  - text: ń
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER N (006e) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: M̄
+    language: naq
+    features:
+      mark: false
+  - text: M̄
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER M (004d) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: m̄
+    language: naq
+    features:
+      mark: false
+  - text: m̄
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER M (006d) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: N̄
+    language: naq
+    features:
+      mark: false
+  - text: N̄
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER N (004e) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: n̄
+    language: naq
+    features:
+      mark: false
+  - text: n̄
+    language: naq
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER N (006e) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: M̀
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: M̀
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER M (004d) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: m̀
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: m̀
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER M (006d) needs anchor for combining mark:
+    COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ǹ
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: Ǹ
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER N (004e) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ǹ
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: ǹ
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER N (006e) needs anchor for combining mark:
+    COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ḿ
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: Ḿ
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER M (004d) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ḿ
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: ḿ
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER M (006d) needs anchor for combining mark:
+    COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ń
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: Ń
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER N (004e) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ń
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: ń
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER N (006e) needs anchor for combining mark:
+    COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: M̄
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: M̄
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER M (004d) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: m̄
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: m̄
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER M (006d) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: N̄
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: N̄
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER N (004e) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: n̄
+    language: naq
+    features:
+      mark: false
+      smcp: true
+  - text: n̄
+    language: naq
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER N (006e) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp

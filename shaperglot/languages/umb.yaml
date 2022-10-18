@@ -1,0 +1,7 @@
+#auto-generated using generate-sg-profile.py
+features:
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt

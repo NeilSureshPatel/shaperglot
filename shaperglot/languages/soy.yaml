@@ -1,0 +1,872 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X014A
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: Ẽ́
+    language: soy
+    features:
+      mark: false
+  - text: Ẽ́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER E WITH TILDE (1ebc) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: ẽ́
+    language: soy
+    features:
+      mark: false
+  - text: ẽ́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER E WITH TILDE (1ebd) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: É̃
+    language: soy
+    features:
+      mark: false
+  - text: É̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER E WITH ACUTE (00c9) needs anchor for: COMBINING
+    TILDE (0303)'
+- inputs:
+  - text: é̃
+    language: soy
+    features:
+      mark: false
+  - text: é̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER E WITH ACUTE (00e9) needs anchor for: COMBINING TILDE
+    (0303)'
+- inputs:
+  - text: Ɛ́
+    language: soy
+    features:
+      mark: false
+  - text: Ɛ́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɛ́
+    language: soy
+    features:
+      mark: false
+  - text: ɛ́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɛ̃
+    language: soy
+    features:
+      mark: false
+  - text: Ɛ̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING TILDE
+    (0303)'
+- inputs:
+  - text: ɛ̃
+    language: soy
+    features:
+      mark: false
+  - text: ɛ̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING TILDE (0303)'
+- inputs:
+  - text: Ɛ̃́
+    language: soy
+    features:
+      mark: false
+  - text: Ɛ̃́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) with COMBINING TILDE (0303) needs
+    anchor for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: ɛ̃́
+    language: soy
+    features:
+      mark: false
+  - text: ɛ̃́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) with COMBINING TILDE (0303) needs anchor
+    for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: Ɛ́̃
+    language: soy
+    features:
+      mark: false
+  - text: Ɛ́̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) with COMBINING ACUTE ACCENT (0301)
+    needs anchor for: COMBINING TILDE (0303)'
+- inputs:
+  - text: ɛ́̃
+    language: soy
+    features:
+      mark: false
+  - text: ɛ́̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) with COMBINING ACUTE ACCENT (0301)
+    needs anchor for: COMBINING TILDE (0303)'
+- inputs:
+  - text: Ĩ́
+    language: soy
+    features:
+      mark: false
+  - text: Ĩ́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I WITH TILDE (0128) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: ĩ́
+    language: soy
+    features:
+      mark: false
+  - text: ĩ́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I WITH TILDE (0129) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: Í̃
+    language: soy
+    features:
+      mark: false
+  - text: Í̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I WITH ACUTE (00cd) needs anchor for: COMBINING
+    TILDE (0303)'
+- inputs:
+  - text: í̃
+    language: soy
+    features:
+      mark: false
+  - text: í̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I WITH ACUTE (00ed) needs anchor for: COMBINING TILDE
+    (0303)'
+- inputs:
+  - text: Ɔ́
+    language: soy
+    features:
+      mark: false
+  - text: Ɔ́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɔ́
+    language: soy
+    features:
+      mark: false
+  - text: ɔ́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɔ̃
+    language: soy
+    features:
+      mark: false
+  - text: Ɔ̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING TILDE
+    (0303)'
+- inputs:
+  - text: ɔ̃
+    language: soy
+    features:
+      mark: false
+  - text: ɔ̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING TILDE (0303)'
+- inputs:
+  - text: ɔ̃́
+    language: soy
+    features:
+      mark: false
+  - text: ɔ̃́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) with COMBINING TILDE (0303) needs anchor
+    for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: ĩ́
+    language: soy
+    features:
+      mark: false
+  - text: ĩ́
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I WITH TILDE (0129) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: Ɔ́̃
+    language: soy
+    features:
+      mark: false
+  - text: Ɔ́̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) with COMBINING ACUTE ACCENT (0301)
+    needs anchor for: COMBINING TILDE (0303)'
+- inputs:
+  - text: ɔ́̃
+    language: soy
+    features:
+      mark: false
+  - text: ɔ́̃
+    language: soy
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) with COMBINING ACUTE ACCENT (0301)
+    needs anchor for: COMBINING TILDE (0303)'
+- inputs:
+  - text: Ẽ́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Ẽ́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER E WITH TILDE (1ebc) needs anchor for
+    combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ẽ́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ẽ́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER E WITH TILDE (1ebd) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: É̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: É̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER E WITH ACUTE (00c9) needs anchor for
+    combining mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: é̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: é̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER E WITH ACUTE (00e9) needs anchor for combining
+    mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̃́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̃́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) with COMBINING TILDE (0303)
+    needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̃́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̃́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) with COMBINING TILDE (0303)
+    needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ́̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ́̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) with COMBINING ACUTE ACCENT
+    (0301) needs anchor for combining mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ́̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ́̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) with COMBINING ACUTE ACCENT
+    (0301) needs anchor for combining mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ĩ́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Ĩ́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I WITH TILDE (0128) needs anchor for
+    combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ĩ́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ĩ́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I WITH TILDE (0129) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Í̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Í̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I WITH ACUTE (00cd) needs anchor for
+    combining mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: í̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: í̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I WITH ACUTE (00ed) needs anchor for combining
+    mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̃́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̃́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) with COMBINING TILDE (0303)
+    needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ĩ́
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ĩ́
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I WITH TILDE (0129) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ́̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ́̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) with COMBINING ACUTE ACCENT
+    (0301) needs anchor for combining mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ́̃
+    language: soy
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ́̃
+    language: soy
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) with COMBINING ACUTE ACCENT
+    (0301) needs anchor for combining mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp

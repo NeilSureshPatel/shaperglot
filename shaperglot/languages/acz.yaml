@@ -1,0 +1,9 @@
+#auto-generated using generate-sg-profile.py
+features:
+- mark:
+  - involves: hyperglot
+- smcp:
+  - present
+languagesystems:
+- arab
+- ''

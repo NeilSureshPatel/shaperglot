@@ -1,0 +1,939 @@
+#auto-generated using generate-sg-profile.py
+features:
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: À
+    language: afr
+    features:
+      mark: false
+  - text: À
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: à
+    language: afr
+    features:
+      mark: false
+  - text: à
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Á
+    language: afr
+    features:
+      mark: false
+  - text: Á
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: á
+    language: afr
+    features:
+      mark: false
+  - text: á
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Â
+    language: afr
+    features:
+      mark: false
+  - text: Â
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: â
+    language: afr
+    features:
+      mark: false
+  - text: â
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING CIRCUMFLEX ACCENT
+    (0302)'
+- inputs:
+  - text: Ä
+    language: afr
+    features:
+      mark: false
+  - text: Ä
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING DIAERESIS
+    (0308)'
+- inputs:
+  - text: ä
+    language: afr
+    features:
+      mark: false
+  - text: ä
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING DIAERESIS (0308)'
+- inputs:
+  - text: Ã
+    language: afr
+    features:
+      mark: false
+  - text: Ã
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING TILDE (0303)'
+- inputs:
+  - text: ã
+    language: afr
+    features:
+      mark: false
+  - text: ã
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING TILDE (0303)'
+- inputs:
+  - text: Ç
+    language: afr
+    features:
+      mark: false
+  - text: Ç
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER C (0043) needs anchor for: COMBINING CEDILLA (0327)'
+- inputs:
+  - text: ç
+    language: afr
+    features:
+      mark: false
+  - text: ç
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER C (0063) needs anchor for: COMBINING CEDILLA (0327)'
+- inputs:
+  - text: Ì
+    language: afr
+    features:
+      mark: false
+  - text: Ì
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I (0049) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: ì
+    language: afr
+    features:
+      mark: false
+  - text: ì
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I (0069) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Í
+    language: afr
+    features:
+      mark: false
+  - text: Í
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I (0049) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: í
+    language: afr
+    features:
+      mark: false
+  - text: í
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I (0069) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ò
+    language: afr
+    features:
+      mark: false
+  - text: Ò
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER O (004f) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: ò
+    language: afr
+    features:
+      mark: false
+  - text: ò
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER O (006f) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ó
+    language: afr
+    features:
+      mark: false
+  - text: Ó
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER O (004f) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: ó
+    language: afr
+    features:
+      mark: false
+  - text: ó
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER O (006f) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ù
+    language: afr
+    features:
+      mark: false
+  - text: Ù
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U (0055) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: ù
+    language: afr
+    features:
+      mark: false
+  - text: ù
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U (0075) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ú
+    language: afr
+    features:
+      mark: false
+  - text: Ú
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U (0055) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: ú
+    language: afr
+    features:
+      mark: false
+  - text: ú
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U (0075) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ý
+    language: afr
+    features:
+      mark: false
+  - text: Ý
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER Y (0059) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: ý
+    language: afr
+    features:
+      mark: false
+  - text: ý
+    language: afr
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER Y (0079) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: À
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: À
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: à
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: à
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Á
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Á
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: á
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: á
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Â
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Â
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: â
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: â
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ä
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Ä
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ä
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: ä
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ã
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Ã
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ã
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: ã
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING TILDE (0303)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ç
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Ç
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER C (0043) needs anchor for combining
+    mark: COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ç
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: ç
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER C (0063) needs anchor for combining mark:
+    COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ì
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Ì
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I (0049) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ì
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: ì
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I (0069) needs anchor for combining mark:
+    COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Í
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Í
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I (0049) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: í
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: í
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I (0069) needs anchor for combining mark:
+    COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ò
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Ò
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER O (004f) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ò
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: ò
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER O (006f) needs anchor for combining mark:
+    COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ó
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Ó
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER O (004f) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ó
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: ó
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER O (006f) needs anchor for combining mark:
+    COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ù
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Ù
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U (0055) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ù
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: ù
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U (0075) needs anchor for combining mark:
+    COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ú
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Ú
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U (0055) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ú
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: ú
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U (0075) needs anchor for combining mark:
+    COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ý
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: Ý
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER Y (0059) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ý
+    language: afr
+    features:
+      mark: false
+      smcp: true
+  - text: ý
+    language: afr
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER Y (0079) needs anchor for combining mark:
+    COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp

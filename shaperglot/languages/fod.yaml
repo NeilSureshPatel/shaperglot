@@ -1,0 +1,298 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X014A
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: Ɛ́
+    language: fod
+    features:
+      mark: false
+  - text: Ɛ́
+    language: fod
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: Ɩ́
+    language: fod
+    features:
+      mark: false
+  - text: Ɩ́
+    language: fod
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER IOTA (0196) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɔ́
+    language: fod
+    features:
+      mark: false
+  - text: Ɔ́
+    language: fod
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: Ʊ́
+    language: fod
+    features:
+      mark: false
+  - text: Ʊ́
+    language: fod
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER UPSILON (01b1) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɛ́
+    language: fod
+    features:
+      mark: false
+  - text: ɛ́
+    language: fod
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: ɩ́
+    language: fod
+    features:
+      mark: false
+  - text: ɩ́
+    language: fod
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER IOTA (0269) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: ɔ́
+    language: fod
+    features:
+      mark: false
+  - text: ɔ́
+    language: fod
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: ʊ́
+    language: fod
+    features:
+      mark: false
+  - text: ʊ́
+    language: fod
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER UPSILON (028a) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: Ɛ́
+    language: fod
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ́
+    language: fod
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɩ́
+    language: fod
+    features:
+      mark: false
+      smcp: true
+  - text: Ɩ́
+    language: fod
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER IOTA (0196) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ́
+    language: fod
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ́
+    language: fod
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ʊ́
+    language: fod
+    features:
+      mark: false
+      smcp: true
+  - text: Ʊ́
+    language: fod
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER UPSILON (01b1) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ́
+    language: fod
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ́
+    language: fod
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɩ́
+    language: fod
+    features:
+      mark: false
+      smcp: true
+  - text: ɩ́
+    language: fod
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER IOTA (0269) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ́
+    language: fod
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ́
+    language: fod
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ʊ́
+    language: fod
+    features:
+      mark: false
+      smcp: true
+  - text: ʊ́
+    language: fod
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER UPSILON (028a) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp

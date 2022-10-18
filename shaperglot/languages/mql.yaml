@@ -1,0 +1,1446 @@
+#auto-generated using generate-sg-profile.py
+features:
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: A̰
+    language: mql
+    features:
+      mark: false
+  - text: A̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING TILDE BELOW
+    (0330)'
+- inputs:
+  - text: a̰
+    language: mql
+    features:
+      mark: false
+  - text: a̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING TILDE BELOW
+    (0330)'
+- inputs:
+  - text: Á̰
+    language: mql
+    features:
+      mark: false
+  - text: Á̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: á̰
+    language: mql
+    features:
+      mark: false
+  - text: á̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: Á̰
+    language: mql
+    features:
+      mark: false
+  - text: Á̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A WITH ACUTE (00c1) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: á̰
+    language: mql
+    features:
+      mark: false
+  - text: á̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A WITH ACUTE (00e1) needs anchor for: COMBINING TILDE
+    BELOW (0330)'
+- inputs:
+  - text: Ā̰
+    language: mql
+    features:
+      mark: false
+  - text: Ā̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: ā̰
+    language: mql
+    features:
+      mark: false
+  - text: ā̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ā̰
+    language: mql
+    features:
+      mark: false
+  - text: Ā̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A WITH MACRON (0100) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: ā̰
+    language: mql
+    features:
+      mark: false
+  - text: ā̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A WITH MACRON (0101) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: Ɛ́
+    language: mql
+    features:
+      mark: false
+  - text: Ɛ́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɛ́
+    language: mql
+    features:
+      mark: false
+  - text: ɛ́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɛ̄
+    language: mql
+    features:
+      mark: false
+  - text: Ɛ̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING MACRON
+    (0304)'
+- inputs:
+  - text: ɛ̄
+    language: mql
+    features:
+      mark: false
+  - text: ɛ̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING MACRON
+    (0304)'
+- inputs:
+  - text: Ɛ̰
+    language: mql
+    features:
+      mark: false
+  - text: Ɛ̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING TILDE
+    BELOW (0330)'
+- inputs:
+  - text: ɛ̰
+    language: mql
+    features:
+      mark: false
+  - text: ɛ̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING TILDE BELOW
+    (0330)'
+- inputs:
+  - text: Ɛ̰́
+    language: mql
+    features:
+      mark: false
+  - text: Ɛ̰́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) with COMBINING TILDE BELOW (0330)
+    needs anchor for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: ɛ̰̄
+    language: mql
+    features:
+      mark: false
+  - text: ɛ̰̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ɛ̰́
+    language: mql
+    features:
+      mark: false
+  - text: Ɛ̰́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) with COMBINING ACUTE ACCENT (0301)
+    needs anchor for: COMBINING TILDE BELOW (0330)'
+- inputs:
+  - text: ɛ̰̄
+    language: mql
+    features:
+      mark: false
+  - text: ɛ̰̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) with COMBINING MACRON (0304) needs
+    anchor for: COMBINING TILDE BELOW (0330)'
+- inputs:
+  - text: Ḭ́
+    language: mql
+    features:
+      mark: false
+  - text: Ḭ́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I WITH TILDE BELOW (1e2c) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: ḭ̄
+    language: mql
+    features:
+      mark: false
+  - text: ḭ̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I WITH TILDE BELOW (1e2d) needs anchor for: COMBINING
+    MACRON (0304)'
+- inputs:
+  - text: Ḭ́
+    language: mql
+    features:
+      mark: false
+  - text: Ḭ́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I WITH ACUTE (00cd) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: ḭ̄
+    language: mql
+    features:
+      mark: false
+  - text: ḭ̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I WITH MACRON (012b) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: N̄
+    language: mql
+    features:
+      mark: false
+  - text: N̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER N (004e) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: n̄
+    language: mql
+    features:
+      mark: false
+  - text: n̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER N (006e) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ɔ́
+    language: mql
+    features:
+      mark: false
+  - text: Ɔ́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɔ́
+    language: mql
+    features:
+      mark: false
+  - text: ɔ́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɔ̄
+    language: mql
+    features:
+      mark: false
+  - text: Ɔ̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING MACRON
+    (0304)'
+- inputs:
+  - text: ɔ̄
+    language: mql
+    features:
+      mark: false
+  - text: ɔ̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING MACRON
+    (0304)'
+- inputs:
+  - text: Ɔ̰
+    language: mql
+    features:
+      mark: false
+  - text: Ɔ̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING TILDE
+    BELOW (0330)'
+- inputs:
+  - text: ɔ̰
+    language: mql
+    features:
+      mark: false
+  - text: ɔ̰
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING TILDE BELOW
+    (0330)'
+- inputs:
+  - text: Ɔ̰́
+    language: mql
+    features:
+      mark: false
+  - text: Ɔ̰́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) with COMBINING TILDE BELOW (0330)
+    needs anchor for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: ɔ̰̄
+    language: mql
+    features:
+      mark: false
+  - text: ɔ̰̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ɔ̰́
+    language: mql
+    features:
+      mark: false
+  - text: Ɔ̰́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) with COMBINING ACUTE ACCENT (0301)
+    needs anchor for: COMBINING TILDE BELOW (0330)'
+- inputs:
+  - text: ɔ̰̄
+    language: mql
+    features:
+      mark: false
+  - text: ɔ̰̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) with COMBINING MACRON (0304) needs
+    anchor for: COMBINING TILDE BELOW (0330)'
+- inputs:
+  - text: Ṵ́
+    language: mql
+    features:
+      mark: false
+  - text: Ṵ́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U WITH TILDE BELOW (1e74) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: ṵ̄
+    language: mql
+    features:
+      mark: false
+  - text: ṵ̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U WITH TILDE BELOW (1e75) needs anchor for: COMBINING
+    MACRON (0304)'
+- inputs:
+  - text: Ṵ́
+    language: mql
+    features:
+      mark: false
+  - text: Ṵ́
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U WITH ACUTE (00da) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: ṵ̄
+    language: mql
+    features:
+      mark: false
+  - text: ṵ̄
+    language: mql
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U WITH MACRON (016b) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: A̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: A̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: a̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: a̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Á̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Á̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: á̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: á̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) with COMBINING TILDE BELOW (0330)
+    needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Á̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Á̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A WITH ACUTE (00c1) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: á̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: á̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A WITH ACUTE (00e1) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ā̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ā̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ā̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ā̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) with COMBINING TILDE BELOW (0330)
+    needs anchor for combining mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ā̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ā̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A WITH MACRON (0100) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ā̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ā̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A WITH MACRON (0101) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̰́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̰́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̰̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̰̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̰́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̰́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) with COMBINING ACUTE ACCENT
+    (0301) needs anchor for combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̰̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̰̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) with COMBINING MACRON (0304)
+    needs anchor for combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ḭ́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ḭ́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I WITH TILDE BELOW (1e2c) needs anchor
+    for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ḭ̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ḭ̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I WITH TILDE BELOW (1e2d) needs anchor
+    for combining mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ḭ́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ḭ́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I WITH ACUTE (00cd) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ḭ̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ḭ̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I WITH MACRON (012b) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: N̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: N̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER N (004e) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: n̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: n̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER N (006e) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̰
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̰
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̰́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̰́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̰̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̰̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̰́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̰́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) with COMBINING ACUTE ACCENT
+    (0301) needs anchor for combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̰̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̰̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) with COMBINING MACRON (0304)
+    needs anchor for combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ṵ́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ṵ́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U WITH TILDE BELOW (1e74) needs anchor
+    for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ṵ̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ṵ̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U WITH TILDE BELOW (1e75) needs anchor
+    for combining mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ṵ́
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: Ṵ́
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U WITH ACUTE (00da) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ṵ̄
+    language: mql
+    features:
+      mark: false
+      smcp: true
+  - text: ṵ̄
+    language: mql
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U WITH MACRON (016b) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp

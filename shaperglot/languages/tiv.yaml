@@ -1,0 +1,224 @@
+#auto-generated using generate-sg-profile.py
+features:
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: A̱
+    language: tiv
+    features:
+      mark: false
+  - text: A̱
+    language: tiv
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING MACRON BELOW
+    (0331)'
+- inputs:
+  - text: a̱
+    language: tiv
+    features:
+      mark: false
+  - text: a̱
+    language: tiv
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING MACRON BELOW
+    (0331)'
+- inputs:
+  - text: E̱
+    language: tiv
+    features:
+      mark: false
+  - text: E̱
+    language: tiv
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER E (0045) needs anchor for: COMBINING MACRON BELOW
+    (0331)'
+- inputs:
+  - text: e̱
+    language: tiv
+    features:
+      mark: false
+  - text: e̱
+    language: tiv
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER E (0065) needs anchor for: COMBINING MACRON BELOW
+    (0331)'
+- inputs:
+  - text: O̱
+    language: tiv
+    features:
+      mark: false
+  - text: O̱
+    language: tiv
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER O (004f) needs anchor for: COMBINING MACRON BELOW
+    (0331)'
+- inputs:
+  - text: o̱
+    language: tiv
+    features:
+      mark: false
+  - text: o̱
+    language: tiv
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER O (006f) needs anchor for: COMBINING MACRON BELOW
+    (0331)'
+- inputs:
+  - text: A̱
+    language: tiv
+    features:
+      mark: false
+      smcp: true
+  - text: A̱
+    language: tiv
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING MACRON BELOW (0331)'
+  if:
+    feature: smcp
+- inputs:
+  - text: a̱
+    language: tiv
+    features:
+      mark: false
+      smcp: true
+  - text: a̱
+    language: tiv
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING MACRON BELOW (0331)'
+  if:
+    feature: smcp
+- inputs:
+  - text: E̱
+    language: tiv
+    features:
+      mark: false
+      smcp: true
+  - text: E̱
+    language: tiv
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER E (0045) needs anchor for combining
+    mark: COMBINING MACRON BELOW (0331)'
+  if:
+    feature: smcp
+- inputs:
+  - text: e̱
+    language: tiv
+    features:
+      mark: false
+      smcp: true
+  - text: e̱
+    language: tiv
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER E (0065) needs anchor for combining mark:
+    COMBINING MACRON BELOW (0331)'
+  if:
+    feature: smcp
+- inputs:
+  - text: O̱
+    language: tiv
+    features:
+      mark: false
+      smcp: true
+  - text: O̱
+    language: tiv
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER O (004f) needs anchor for combining
+    mark: COMBINING MACRON BELOW (0331)'
+  if:
+    feature: smcp
+- inputs:
+  - text: o̱
+    language: tiv
+    features:
+      mark: false
+      smcp: true
+  - text: o̱
+    language: tiv
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER O (006f) needs anchor for combining mark:
+    COMBINING MACRON BELOW (0331)'
+  if:
+    feature: smcp

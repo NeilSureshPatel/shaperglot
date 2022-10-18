@@ -1,0 +1,80 @@
+#auto-generated using generate-sg-profile.py
+features:
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: Ǝ́
+    language: beh
+    features:
+      mark: false
+  - text: Ǝ́
+    language: beh
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER REVERSED E (018e) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ǝ́
+    language: beh
+    features:
+      mark: false
+  - text: ǝ́
+    language: beh
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER TURNED E (01dd) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: Ǝ́
+    language: beh
+    features:
+      mark: false
+      smcp: true
+  - text: Ǝ́
+    language: beh
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER REVERSED E (018e) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ǝ́
+    language: beh
+    features:
+      mark: false
+      smcp: true
+  - text: ǝ́
+    language: beh
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER TURNED E (01dd) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp

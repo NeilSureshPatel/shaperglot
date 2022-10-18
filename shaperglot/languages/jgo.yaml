@@ -1,0 +1,1297 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X014A
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: Ɛ̀
+    language: jgo
+    features:
+      mark: false
+  - text: Ɛ̀
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING GRAVE
+    ACCENT (0300)'
+- inputs:
+  - text: ɛ̀
+    language: jgo
+    features:
+      mark: false
+  - text: ɛ̀
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ɛ́
+    language: jgo
+    features:
+      mark: false
+  - text: Ɛ́
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɛ́
+    language: jgo
+    features:
+      mark: false
+  - text: ɛ́
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɛ̂
+    language: jgo
+    features:
+      mark: false
+  - text: Ɛ̂
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: ɛ̂
+    language: jgo
+    features:
+      mark: false
+  - text: ɛ̂
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: Ɛ̌
+    language: jgo
+    features:
+      mark: false
+  - text: Ɛ̌
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING CARON
+    (030c)'
+- inputs:
+  - text: ɛ̌
+    language: jgo
+    features:
+      mark: false
+  - text: ɛ̌
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING CARON (030c)'
+- inputs:
+  - text: Ɛ̄
+    language: jgo
+    features:
+      mark: false
+  - text: Ɛ̄
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING MACRON
+    (0304)'
+- inputs:
+  - text: ɛ̄
+    language: jgo
+    features:
+      mark: false
+  - text: ɛ̄
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING MACRON
+    (0304)'
+- inputs:
+  - text: M̀
+    language: jgo
+    features:
+      mark: false
+  - text: M̀
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER M (004d) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: m̀
+    language: jgo
+    features:
+      mark: false
+  - text: m̀
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER M (006d) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: M̄
+    language: jgo
+    features:
+      mark: false
+  - text: M̄
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER M (004d) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: m̄
+    language: jgo
+    features:
+      mark: false
+  - text: m̄
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER M (006d) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: N̄
+    language: jgo
+    features:
+      mark: false
+  - text: N̄
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER N (004e) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: n̄
+    language: jgo
+    features:
+      mark: false
+  - text: n̄
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER N (006e) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ŋ̀
+    language: jgo
+    features:
+      mark: false
+  - text: Ŋ̀
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER ENG (014a) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: ŋ̀
+    language: jgo
+    features:
+      mark: false
+  - text: ŋ̀
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER ENG (014b) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ŋ́
+    language: jgo
+    features:
+      mark: false
+  - text: Ŋ́
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER ENG (014a) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: ŋ́
+    language: jgo
+    features:
+      mark: false
+  - text: ŋ́
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER ENG (014b) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ŋ̄
+    language: jgo
+    features:
+      mark: false
+  - text: Ŋ̄
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER ENG (014a) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: ŋ̄
+    language: jgo
+    features:
+      mark: false
+  - text: ŋ̄
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER ENG (014b) needs anchor for: COMBINING MACRON (0304)'
+- inputs:
+  - text: Ɔ́
+    language: jgo
+    features:
+      mark: false
+  - text: Ɔ́
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɔ́
+    language: jgo
+    features:
+      mark: false
+  - text: ɔ́
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɔ̂
+    language: jgo
+    features:
+      mark: false
+  - text: Ɔ̂
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: ɔ̂
+    language: jgo
+    features:
+      mark: false
+  - text: ɔ̂
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: Ɔ̌
+    language: jgo
+    features:
+      mark: false
+  - text: Ɔ̌
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING CARON
+    (030c)'
+- inputs:
+  - text: ɔ̌
+    language: jgo
+    features:
+      mark: false
+  - text: ɔ̌
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING CARON (030c)'
+- inputs:
+  - text: Ʉ́
+    language: jgo
+    features:
+      mark: false
+  - text: Ʉ́
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U BAR (0244) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ʉ́
+    language: jgo
+    features:
+      mark: false
+  - text: ʉ́
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U BAR (0289) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ʉ̂
+    language: jgo
+    features:
+      mark: false
+  - text: Ʉ̂
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U BAR (0244) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: ʉ̂
+    language: jgo
+    features:
+      mark: false
+  - text: ʉ̂
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U BAR (0289) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: Ʉ̌
+    language: jgo
+    features:
+      mark: false
+  - text: Ʉ̌
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U BAR (0244) needs anchor for: COMBINING CARON
+    (030c)'
+- inputs:
+  - text: ʉ̌
+    language: jgo
+    features:
+      mark: false
+  - text: ʉ̌
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U BAR (0289) needs anchor for: COMBINING CARON (030c)'
+- inputs:
+  - text: Ʉ̈
+    language: jgo
+    features:
+      mark: false
+  - text: Ʉ̈
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U BAR (0244) needs anchor for: COMBINING DIAERESIS
+    (0308)'
+- inputs:
+  - text: ʉ̈
+    language: jgo
+    features:
+      mark: false
+  - text: ʉ̈
+    language: jgo
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U BAR (0289) needs anchor for: COMBINING DIAERESIS
+    (0308)'
+- inputs:
+  - text: Ɛ̀
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̀
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̀
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̀
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ́
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ́
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ́
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ́
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̂
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̂
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̂
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̂
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̌
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̌
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING CARON (030c)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̌
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̌
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING CARON (030c)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̄
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̄
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̄
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̄
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: M̀
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: M̀
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER M (004d) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: m̀
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: m̀
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER M (006d) needs anchor for combining mark:
+    COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: M̄
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: M̄
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER M (004d) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: m̄
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: m̄
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER M (006d) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: N̄
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: N̄
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER N (004e) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: n̄
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: n̄
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER N (006e) needs anchor for combining mark:
+    COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ŋ̀
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ŋ̀
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER ENG (014a) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ŋ̀
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ŋ̀
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER ENG (014b) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ŋ́
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ŋ́
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER ENG (014a) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ŋ́
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ŋ́
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER ENG (014b) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ŋ̄
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ŋ̄
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER ENG (014a) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ŋ̄
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ŋ̄
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER ENG (014b) needs anchor for combining
+    mark: COMBINING MACRON (0304)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ́
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ́
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ́
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ́
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̂
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̂
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̂
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̂
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̌
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̌
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING CARON (030c)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̌
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̌
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING CARON (030c)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ʉ́
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ʉ́
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U BAR (0244) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ʉ́
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ʉ́
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U BAR (0289) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ʉ̂
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ʉ̂
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U BAR (0244) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ʉ̂
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ʉ̂
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U BAR (0289) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ʉ̌
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ʉ̌
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U BAR (0244) needs anchor for combining
+    mark: COMBINING CARON (030c)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ʉ̌
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ʉ̌
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U BAR (0289) needs anchor for combining
+    mark: COMBINING CARON (030c)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ʉ̈
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: Ʉ̈
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U BAR (0244) needs anchor for combining
+    mark: COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ʉ̈
+    language: jgo
+    features:
+      mark: false
+      smcp: true
+  - text: ʉ̈
+    language: jgo
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U BAR (0289) needs anchor for combining
+    mark: COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp

@@ -1,0 +1,796 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X014A
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: A̧
+    language: kkj
+    features:
+      mark: false
+  - text: A̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING CEDILLA (0327)'
+- inputs:
+  - text: a̧
+    language: kkj
+    features:
+      mark: false
+  - text: a̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING CEDILLA (0327)'
+- inputs:
+  - text: Ɛ̀
+    language: kkj
+    features:
+      mark: false
+  - text: Ɛ̀
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING GRAVE
+    ACCENT (0300)'
+- inputs:
+  - text: ɛ̀
+    language: kkj
+    features:
+      mark: false
+  - text: ɛ̀
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ɛ́
+    language: kkj
+    features:
+      mark: false
+  - text: Ɛ́
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɛ́
+    language: kkj
+    features:
+      mark: false
+  - text: ɛ́
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɛ̂
+    language: kkj
+    features:
+      mark: false
+  - text: Ɛ̂
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: ɛ̂
+    language: kkj
+    features:
+      mark: false
+  - text: ɛ̂
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: Ɛ̧
+    language: kkj
+    features:
+      mark: false
+  - text: Ɛ̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING CEDILLA
+    (0327)'
+- inputs:
+  - text: ɛ̧
+    language: kkj
+    features:
+      mark: false
+  - text: ɛ̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING CEDILLA
+    (0327)'
+- inputs:
+  - text: I̧
+    language: kkj
+    features:
+      mark: false
+  - text: I̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I (0049) needs anchor for: COMBINING CEDILLA (0327)'
+- inputs:
+  - text: i̧
+    language: kkj
+    features:
+      mark: false
+  - text: i̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I (0069) needs anchor for: COMBINING CEDILLA (0327)'
+- inputs:
+  - text: Ɔ̀
+    language: kkj
+    features:
+      mark: false
+  - text: Ɔ̀
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING GRAVE
+    ACCENT (0300)'
+- inputs:
+  - text: ɔ̀
+    language: kkj
+    features:
+      mark: false
+  - text: ɔ̀
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ɔ́
+    language: kkj
+    features:
+      mark: false
+  - text: Ɔ́
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɔ́
+    language: kkj
+    features:
+      mark: false
+  - text: ɔ́
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɔ̂
+    language: kkj
+    features:
+      mark: false
+  - text: Ɔ̂
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: ɔ̂
+    language: kkj
+    features:
+      mark: false
+  - text: ɔ̂
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING CIRCUMFLEX
+    ACCENT (0302)'
+- inputs:
+  - text: Ɔ̧
+    language: kkj
+    features:
+      mark: false
+  - text: Ɔ̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING CEDILLA
+    (0327)'
+- inputs:
+  - text: ɔ̧
+    language: kkj
+    features:
+      mark: false
+  - text: ɔ̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING CEDILLA
+    (0327)'
+- inputs:
+  - text: U̧
+    language: kkj
+    features:
+      mark: false
+  - text: U̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U (0055) needs anchor for: COMBINING CEDILLA (0327)'
+- inputs:
+  - text: u̧
+    language: kkj
+    features:
+      mark: false
+  - text: u̧
+    language: kkj
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U (0075) needs anchor for: COMBINING CEDILLA (0327)'
+- inputs:
+  - text: A̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: A̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: a̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: a̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̀
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̀
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̀
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̀
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ́
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ́
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ́
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ́
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̂
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̂
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̂
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̂
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: I̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: I̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I (0049) needs anchor for combining
+    mark: COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: i̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: i̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I (0069) needs anchor for combining mark:
+    COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̀
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̀
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̀
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̀
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ́
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ́
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ́
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ́
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̂
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̂
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̂
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̂
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING CIRCUMFLEX ACCENT (0302)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: U̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: U̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U (0055) needs anchor for combining
+    mark: COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp
+- inputs:
+  - text: u̧
+    language: kkj
+    features:
+      mark: false
+      smcp: true
+  - text: u̧
+    language: kkj
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U (0075) needs anchor for combining mark:
+    COMBINING CEDILLA (0327)'
+  if:
+    feature: smcp

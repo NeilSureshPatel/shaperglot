@@ -1,0 +1,1232 @@
+#auto-generated using generate-sg-profile.py
+features:
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: A̰
+    language: ntm
+    features:
+      mark: false
+  - text: A̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) needs anchor for: COMBINING TILDE BELOW
+    (0330)'
+- inputs:
+  - text: a̰
+    language: ntm
+    features:
+      mark: false
+  - text: a̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) needs anchor for: COMBINING TILDE BELOW
+    (0330)'
+- inputs:
+  - text: Á̰
+    language: ntm
+    features:
+      mark: false
+  - text: Á̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A (0041) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: à̰
+    language: ntm
+    features:
+      mark: false
+  - text: à̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A (0061) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING GRAVE ACCENT (0300)'
+- inputs:
+  - text: Á̰
+    language: ntm
+    features:
+      mark: false
+  - text: Á̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER A WITH ACUTE (00c1) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: à̰
+    language: ntm
+    features:
+      mark: false
+  - text: à̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER A WITH GRAVE (00e0) needs anchor for: COMBINING TILDE
+    BELOW (0330)'
+- inputs:
+  - text: Ɛ̀
+    language: ntm
+    features:
+      mark: false
+  - text: Ɛ̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING GRAVE
+    ACCENT (0300)'
+- inputs:
+  - text: ɛ̀
+    language: ntm
+    features:
+      mark: false
+  - text: ɛ̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ɛ́
+    language: ntm
+    features:
+      mark: false
+  - text: Ɛ́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɛ́
+    language: ntm
+    features:
+      mark: false
+  - text: ɛ́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɛ̰
+    language: ntm
+    features:
+      mark: false
+  - text: Ɛ̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING TILDE
+    BELOW (0330)'
+- inputs:
+  - text: ɛ̰
+    language: ntm
+    features:
+      mark: false
+  - text: ɛ̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING TILDE BELOW
+    (0330)'
+- inputs:
+  - text: Ɛ̰́
+    language: ntm
+    features:
+      mark: false
+  - text: Ɛ̰́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) with COMBINING TILDE BELOW (0330)
+    needs anchor for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: ɛ̰̀
+    language: ntm
+    features:
+      mark: false
+  - text: ɛ̰̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING GRAVE ACCENT (0300)'
+- inputs:
+  - text: Ɛ̰́
+    language: ntm
+    features:
+      mark: false
+  - text: Ɛ̰́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) with COMBINING ACUTE ACCENT (0301)
+    needs anchor for: COMBINING TILDE BELOW (0330)'
+- inputs:
+  - text: ɛ̰̀
+    language: ntm
+    features:
+      mark: false
+  - text: ɛ̰̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) with COMBINING GRAVE ACCENT (0300)
+    needs anchor for: COMBINING TILDE BELOW (0330)'
+- inputs:
+  - text: Ḭ́
+    language: ntm
+    features:
+      mark: false
+  - text: Ḭ́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I WITH TILDE BELOW (1e2c) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: ḭ̀
+    language: ntm
+    features:
+      mark: false
+  - text: ḭ̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I WITH TILDE BELOW (1e2d) needs anchor for: COMBINING
+    GRAVE ACCENT (0300)'
+- inputs:
+  - text: Ḭ́
+    language: ntm
+    features:
+      mark: false
+  - text: Ḭ́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER I WITH ACUTE (00cd) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: ḭ̀
+    language: ntm
+    features:
+      mark: false
+  - text: ḭ̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER I WITH GRAVE (00ec) needs anchor for: COMBINING TILDE
+    BELOW (0330)'
+- inputs:
+  - text: Ɔ̀
+    language: ntm
+    features:
+      mark: false
+  - text: Ɔ̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING GRAVE
+    ACCENT (0300)'
+- inputs:
+  - text: ɔ̀
+    language: ntm
+    features:
+      mark: false
+  - text: ɔ̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING GRAVE ACCENT
+    (0300)'
+- inputs:
+  - text: Ɔ́
+    language: ntm
+    features:
+      mark: false
+  - text: Ɔ́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING ACUTE
+    ACCENT (0301)'
+- inputs:
+  - text: ɔ́
+    language: ntm
+    features:
+      mark: false
+  - text: ɔ́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING ACUTE ACCENT
+    (0301)'
+- inputs:
+  - text: Ɔ̰
+    language: ntm
+    features:
+      mark: false
+  - text: Ɔ̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) needs anchor for: COMBINING TILDE
+    BELOW (0330)'
+- inputs:
+  - text: ɔ̰
+    language: ntm
+    features:
+      mark: false
+  - text: ɔ̰
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) needs anchor for: COMBINING TILDE BELOW
+    (0330)'
+- inputs:
+  - text: Ɔ̰́
+    language: ntm
+    features:
+      mark: false
+  - text: Ɔ̰́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) with COMBINING TILDE BELOW (0330)
+    needs anchor for: COMBINING ACUTE ACCENT (0301)'
+- inputs:
+  - text: ɔ̰̀
+    language: ntm
+    features:
+      mark: false
+  - text: ɔ̰̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) with COMBINING TILDE BELOW (0330) needs
+    anchor for: COMBINING GRAVE ACCENT (0300)'
+- inputs:
+  - text: Ɔ̰́
+    language: ntm
+    features:
+      mark: false
+  - text: Ɔ̰́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN O (0186) with COMBINING ACUTE ACCENT (0301)
+    needs anchor for: COMBINING TILDE BELOW (0330)'
+- inputs:
+  - text: ɔ̰̀
+    language: ntm
+    features:
+      mark: false
+  - text: ɔ̰̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN O (0254) with COMBINING GRAVE ACCENT (0300)
+    needs anchor for: COMBINING TILDE BELOW (0330)'
+- inputs:
+  - text: Ṵ́
+    language: ntm
+    features:
+      mark: false
+  - text: Ṵ́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U WITH TILDE BELOW (1e74) needs anchor for: COMBINING
+    ACUTE ACCENT (0301)'
+- inputs:
+  - text: ṵ̀
+    language: ntm
+    features:
+      mark: false
+  - text: ṵ̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U WITH TILDE BELOW (1e75) needs anchor for: COMBINING
+    GRAVE ACCENT (0300)'
+- inputs:
+  - text: Ṵ́
+    language: ntm
+    features:
+      mark: false
+  - text: Ṵ́
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER U WITH ACUTE (00da) needs anchor for: COMBINING
+    TILDE BELOW (0330)'
+- inputs:
+  - text: ṵ̀
+    language: ntm
+    features:
+      mark: false
+  - text: ṵ̀
+    language: ntm
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER U WITH GRAVE (00f9) needs anchor for: COMBINING TILDE
+    BELOW (0330)'
+- inputs:
+  - text: A̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: A̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: a̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: a̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) needs anchor for combining mark:
+    COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Á̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Á̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A (0041) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: à̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: à̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A (0061) with COMBINING TILDE BELOW (0330)
+    needs anchor for combining mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Á̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Á̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER A WITH ACUTE (00c1) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: à̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: à̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER A WITH GRAVE (00e0) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̰́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̰́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̰̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̰̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̰́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̰́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) with COMBINING ACUTE ACCENT
+    (0301) needs anchor for combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̰̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̰̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) with COMBINING GRAVE ACCENT
+    (0300) needs anchor for combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ḭ́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ḭ́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I WITH TILDE BELOW (1e2c) needs anchor
+    for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ḭ̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ḭ̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I WITH TILDE BELOW (1e2d) needs anchor
+    for combining mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ḭ́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ḭ́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER I WITH ACUTE (00cd) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ḭ̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ḭ̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER I WITH GRAVE (00ec) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̰
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̰
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̰́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̰́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̰̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̰̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) with COMBINING TILDE BELOW
+    (0330) needs anchor for combining mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɔ̰́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ɔ̰́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN O (0186) with COMBINING ACUTE ACCENT
+    (0301) needs anchor for combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɔ̰̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ɔ̰̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN O (0254) with COMBINING GRAVE ACCENT
+    (0300) needs anchor for combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ṵ́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ṵ́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U WITH TILDE BELOW (1e74) needs anchor
+    for combining mark: COMBINING ACUTE ACCENT (0301)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ṵ̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ṵ̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U WITH TILDE BELOW (1e75) needs anchor
+    for combining mark: COMBINING GRAVE ACCENT (0300)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ṵ́
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: Ṵ́
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER U WITH ACUTE (00da) needs anchor for
+    combining mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ṵ̀
+    language: ntm
+    features:
+      mark: false
+      smcp: true
+  - text: ṵ̀
+    language: ntm
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER U WITH GRAVE (00f9) needs anchor for combining
+    mark: COMBINING TILDE BELOW (0330)'
+  if:
+    feature: smcp

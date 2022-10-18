@@ -80,6 +80,7 @@ class Checker:
 
         #Created a test to validate if a mark is being attached to a specific base.
         #Compares the GPOS history of a standalone mark against the mark following a specific base.
+        #To be deprecated
         if "mark2base" in check:
             params = check["mark2base"]
             params = [[0, x, 0] if isinstance(x, int) else x for x in params]
@@ -104,6 +105,30 @@ class Checker:
                 self.results.okay(check["rationale"])
             #print(mark_pos1, cluster_pos, mark_pos2)
 
+        #Created a test to validate if a mark is being attached to a specific base.
+        #This approach is more generic to accomodate any GPOS
+        if "gpos_differs" in check:
+            params = check["gpos_differs"]
+            params = [[0, x, 0] if isinstance(x, int) else x for x in params]
+            clusters = [_get_cluster(buffers, param) for param in params]
+            cluster_pos1 = []
+            cluster_pos2 = []
+            mark_pos1 = ""
+            mark_pos2 = ""
+            if len(clusters) != 2:
+                self.results.fail("Cluster check did not identify two clusters!")
+                return
+            else:
+                cluster_pos1 = self.vharfbuzz.serialize_buf(buffers[0]).split('|')
+                cluster_pos2 = self.vharfbuzz.serialize_buf(buffers[1]).split('|')
+            if len(cluster_pos2) != 2:   
+                self.results.okay(check["rationale"] + " **Is Precomposed**")
+                return
+            if cluster_pos2[1] == cluster_pos1[1]:
+                self.results.fail(check["rationale"])
+            else:
+                self.results.okay(check["rationale"])
+
 
         if "differs" in check:
             params = check["differs"]
@@ -116,6 +141,7 @@ class Checker:
                 self.results.fail(check["rationale"])
             else:
                 self.results.okay(check["rationale"])
+            
 
     def check_features(self):
         features = self.lang.get("features")

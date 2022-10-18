@@ -1,0 +1,7 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X0181
+languagesystems:
+- latn
+- dflt

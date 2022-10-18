@@ -1,0 +1,226 @@
+#auto-generated using generate-sg-profile.py
+features:
+  locl:
+  - involves: 0X014A
+  mark:
+  - involves: hyperglot
+languagesystems:
+- latn
+- dflt
+shaping:
+- inputs:
+  - text: Ɛ̈
+    language: nus
+    features:
+      mark: false
+  - text: Ɛ̈
+    language: nus
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) needs anchor for: COMBINING DIAERESIS
+    (0308)'
+- inputs:
+  - text: ɛ̈
+    language: nus
+    features:
+      mark: false
+  - text: ɛ̈
+    language: nus
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) needs anchor for: COMBINING DIAERESIS
+    (0308)'
+- inputs:
+  - text: Ɛ̱̈
+    language: nus
+    features:
+      mark: false
+  - text: Ɛ̱̈
+    language: nus
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) with COMBINING DIAERESIS (0308) needs
+    anchor for: COMBINING MACRON BELOW (0331)'
+- inputs:
+  - text: ɛ̱̈
+    language: nus
+    features:
+      mark: false
+  - text: ɛ̱̈
+    language: nus
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) with COMBINING DIAERESIS (0308) needs
+    anchor for: COMBINING MACRON BELOW (0331)'
+- inputs:
+  - text: Ɛ̱̈
+    language: nus
+    features:
+      mark: false
+  - text: Ɛ̱̈
+    language: nus
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN CAPITAL LETTER OPEN E (0190) with COMBINING MACRON BELOW (0331)
+    needs anchor for: COMBINING DIAERESIS (0308)'
+- inputs:
+  - text: ɛ̱̈
+    language: nus
+    features:
+      mark: false
+  - text: ɛ̱̈
+    language: nus
+    features:
+      mark: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'LATIN SMALL LETTER OPEN E (025b) with COMBINING MACRON BELOW (0331)
+    needs anchor for: COMBINING DIAERESIS (0308)'
+- inputs:
+  - text: Ɛ̈
+    language: nus
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̈
+    language: nus
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) needs anchor for combining
+    mark: COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̈
+    language: nus
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̈
+    language: nus
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) needs anchor for combining
+    mark: COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̱̈
+    language: nus
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̱̈
+    language: nus
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) with COMBINING DIAERESIS
+    (0308) needs anchor for combining mark: COMBINING MACRON BELOW (0331)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̱̈
+    language: nus
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̱̈
+    language: nus
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) with COMBINING DIAERESIS
+    (0308) needs anchor for combining mark: COMBINING MACRON BELOW (0331)'
+  if:
+    feature: smcp
+- inputs:
+  - text: Ɛ̱̈
+    language: nus
+    features:
+      mark: false
+      smcp: true
+  - text: Ɛ̱̈
+    language: nus
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN CAPITAL LETTER OPEN E (0190) with COMBINING MACRON
+    BELOW (0331) needs anchor for combining mark: COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp
+- inputs:
+  - text: ɛ̱̈
+    language: nus
+    features:
+      mark: false
+      smcp: true
+  - text: ɛ̱̈
+    language: nus
+    features:
+      mark: true
+      smcp: true
+  gpos_differs:
+  - - 0
+    - 0
+  - - 1
+    - 0
+  rationale: 'Small caps LATIN SMALL LETTER OPEN E (025b) with COMBINING MACRON BELOW
+    (0331) needs anchor for combining mark: COMBINING DIAERESIS (0308)'
+  if:
+    feature: smcp
